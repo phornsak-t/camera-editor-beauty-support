@@ -1,4 +1,4 @@
-# Camera Editor Beauty: AI Photo — Privacy & Support
+# Camera AI: Photo Editor — Privacy & Support
 
 Public, static privacy-policy and support pages for the iOS app by Phornsak Tibyakad.
 This repository contains website files only, not the app source, photos or AI models.
